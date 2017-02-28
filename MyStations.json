@@ -1,0 +1,112 @@
+[
+  {
+    "id": "user:049ceab0-8073-43a7-b52e-b151603bc8aa",
+    "title": "Indie 103.1",
+    "websiteUrl": "http://www.indie1031.com/",
+    "tags": [
+      "Alternative",
+      "Indie",
+      "Rock",
+      "USA"
+    ],
+    "sources": [
+      "http://stream.abacast.net/playlist/entravision-indieaac-ibc2.m3u"
+    ]
+  },
+  {
+    "id": "user:85746d2b-9dda-40bb-88b9-a34d822abbb2",
+    "title": "NovaSport FM 94.6",
+    "websiteUrl": "http://www.sport-fm.gr/",
+    "tags": [
+      "Sport",
+      "Greece"
+    ],
+    "sources": [
+      "http://sportfm.live24.gr/sportfm7712"
+    ]
+  },
+  {
+    "id": "user:94f51810-f713-4c47-a5ea-3c9d5d00d57b",
+    "title": "RealFM",
+    "websiteUrl": "http://www.realfm.gr/",
+    "tags": [
+      "News",
+      "Greece"
+    ],
+    "sources": [
+      "http://realfm.live24.gr/realfm"
+    ]
+  },
+  {
+    "id": "user:ccdc046a-ee71-4c13-874b-ce98ca54609a",
+    "title": ".977 Alternative",
+    "websiteUrl": "http://www.977music.com/",
+    "tags": [
+      "Alternative",
+      "Indie",
+      "Rock",
+      "USA"
+    ],
+    "sources": [
+      "http://19763.live.streamtheworld.com/977_ALTERN_SC",
+      "http://19763.live.streamtheworld.com:3690/977_ALTERN_SC",
+      "http://19353.live.streamtheworld.com/977_ALTERN_SC",
+      "http://19353.live.streamtheworld.com:3690/977_ALTERN_SC"
+    ]
+  },
+  {
+    "id": "user:12733752-3d08-4cd1-a2ce-5ca19a4fb72f",
+    "title": "MetalRock.FM",
+    "websiteUrl": "http://www.metalrock.fm/",
+    "tags": [
+      "Metal",
+      "Rock",
+      "USA"
+    ],
+    "sources": [
+      "http://192.99.62.212:9408/metalrockfm",
+      "http://192.99.62.212:9854/stream"
+    ]
+  },
+  {
+    "id": "user:fbee42fd-631f-4bc5-af88-9622131a19de",
+    "title": "The Metal MIXX",
+    "websiteUrl": "http://www.themixx.fm/",
+    "tags": [
+      "Metal",
+      "Rock",
+      "USA"
+    ],
+    "sources": [
+      "http://listen.djcmedia.com/metalmixxlow",
+      "http://listen.djcmedia.com/metalmixxhigh"
+    ]
+  },
+  {
+    "id": "user:0bad809b-0c18-4347-a27a-1ce403fd2f9e",
+    "title": "Vanilla Radio Smooth Flavor",
+    "websiteUrl": "https://www.vanillaradio.gr/",
+    "tags": [
+      "Smooth",
+      "Pop",
+      "Greece"
+    ],
+    "sources": [
+      "http://stream.radiojar.com/w0b4xf0q52mtv"
+    ]
+  },
+  {
+    "id": "user:169c3e53-3c00-4f0e-a439-0e032f71b1f0",
+    "title": "Red 96.3",
+    "websiteUrl": "http://www.redfm.gr/",
+    "tags": [
+      "Alternative",
+      "Indie",
+      "Rock",
+      "Greece"
+    ],
+    "sources": [
+      "http://206.190.150.92:8295/;stream.mp3"
+    ]
+  }
+]
