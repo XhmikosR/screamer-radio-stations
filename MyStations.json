@@ -108,5 +108,17 @@
     "sources": [
       "http://206.190.150.92:8295/;stream.mp3"
     ]
+  },
+  {
+    "id": "user:331c9b61-27b0-4de1-b58d-670f8038a40a",
+    "title": "ERASport",
+    "websiteUrl": "http://webradio.ert.gr/eraspor/",
+    "tags": [
+      "Sport",
+      "Greece"
+    ],
+    "sources": [
+      "http://radiostreaming.ert.gr/ert-erasport"
+    ]
   }
 ]
