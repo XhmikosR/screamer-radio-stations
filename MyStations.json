@@ -1,8 +1,8 @@
 [
   {
     "id": "user:049ceab0-8073-43a7-b52e-b151603bc8aa",
-    "title": "Indie 103.1",
-    "websiteUrl": "http://www.indie1031.com/",
+    "title": "The Independent FM",
+    "websiteUrl": "http://theindependent.fm/",
     "tags": [
       "Alternative",
       "Indie",
@@ -10,7 +10,7 @@
       "USA"
     ],
     "sources": [
-      "http://stream.abacast.net/playlist/entravision-indieaac-ibc2.m3u"
+      "http://stream.radiotime.com/listen.stream?streamIds=11737471"
     ]
   },
   {
