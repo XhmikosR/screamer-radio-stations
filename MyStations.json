@@ -1,80 +1,5 @@
 [
   {
-    "id": "user:94f51810-f713-4c47-a5ea-3c9d5d00d57b",
-    "title": "RealFM",
-    "websiteUrl": "http://www.realfm.gr/",
-    "tags": [
-      "News",
-      "Greece"
-    ],
-    "sources": [
-      "http://realfm.live24.gr/realfm"
-    ],
-    "searchHash": "RealFM http://www.realfm.gr/ tag:news tag:greece"
-  },
-  {
-    "id": "user:ccdc046a-ee71-4c13-874b-ce98ca54609a",
-    "title": ".977 Alternative",
-    "websiteUrl": "http://www.977music.com/",
-    "tags": [
-      "Alternative",
-      "Indie",
-      "Rock",
-      "USA"
-    ],
-    "sources": [
-      "http://19763.live.streamtheworld.com/977_ALTERN_SC",
-      "http://19763.live.streamtheworld.com:3690/977_ALTERN_SC",
-      "http://19353.live.streamtheworld.com/977_ALTERN_SC",
-      "http://19353.live.streamtheworld.com:3690/977_ALTERN_SC"
-    ],
-    "searchHash": ".977 Alternative http://www.977music.com/ tag:alternative tag:indie tag:rock tag:usa"
-  },
-  {
-    "id": "user:fbee42fd-631f-4bc5-af88-9622131a19de",
-    "title": "The Metal MIXX",
-    "websiteUrl": "http://www.themixx.fm/",
-    "tags": [
-      "Metal",
-      "Rock",
-      "USA"
-    ],
-    "sources": [
-      "http://listen.djcmedia.com/metalmixxlow",
-      "http://listen.djcmedia.com/metalmixxhigh"
-    ],
-    "searchHash": "The Metal MIXX http://www.themixx.fm/ tag:metal tag:rock tag:usa"
-  },
-  {
-    "id": "user:0bad809b-0c18-4347-a27a-1ce403fd2f9e",
-    "title": "Vanilla Radio Smooth Flavor",
-    "websiteUrl": "https://www.vanillaradio.gr/",
-    "tags": [
-      "Smooth",
-      "Pop",
-      "Greece"
-    ],
-    "sources": [
-      "http://stream.radiojar.com/w0b4xf0q52mtv"
-    ],
-    "searchHash": "Vanilla Radio Smooth Flavor https://www.vanillaradio.gr/ tag:smooth tag:pop tag:greece"
-  },
-  {
-    "id": "user:169c3e53-3c00-4f0e-a439-0e032f71b1f0",
-    "title": "Red 96.3",
-    "websiteUrl": "http://www.redfm.gr/",
-    "tags": [
-      "Alternative",
-      "Indie",
-      "Rock",
-      "Greece"
-    ],
-    "sources": [
-      "http://206.190.150.92:8295/;stream.mp3"
-    ],
-    "searchHash": "Red 96.3 http://www.redfm.gr/ tag:alternative tag:indie tag:rock tag:greece"
-  },
-  {
     "id": "user:331c9b61-27b0-4de1-b58d-670f8038a40a",
     "title": "ERASport",
     "websiteUrl": "http://webradio.ert.gr/eraspor/",
@@ -84,8 +9,7 @@
     ],
     "sources": [
       "http://radiostreaming.ert.gr/ert-erasport"
-    ],
-    "searchHash": "ERASport http://webradio.ert.gr/eraspor/ tag:sport tag:greece"
+    ]
   },
   {
     "id": "user:049ceab0-8073-43a7-b52e-b151603bc8aa",
@@ -99,8 +23,7 @@
     ],
     "sources": [
       "http://stream.radiotime.com/listen.stream?streamIds=11737471"
-    ],
-    "searchHash": "The Independent FM http://theindependent.fm/ tag:alternative tag:indie tag:rock tag:usa"
+    ]
   },
   {
     "id": "user:85746d2b-9dda-40bb-88b9-a34d822abbb2",
@@ -112,8 +35,34 @@
     ],
     "sources": [
       "http://sportfm.live24.gr/sportfm7712"
+    ]
+  },
+  {
+    "id": "user:0bad809b-0c18-4347-a27a-1ce403fd2f9e",
+    "title": "Vanilla Radio Smooth Flavor",
+    "websiteUrl": "https://www.vanillaradio.com/",
+    "tags": [
+      "Smooth",
+      "Pop",
+      "Greece"
     ],
-    "searchHash": "Sport FM 94.6 http://www.sport-fm.gr/ tag:sport tag:greece"
+    "sources": [
+      "http://stream.radiojar.com/w0b4xf0q52mtv"
+    ]
+  },
+  {
+    "id": "user:169c3e53-3c00-4f0e-a439-0e032f71b1f0",
+    "title": "Red 96.3",
+    "websiteUrl": "https://www.redfm.gr/",
+    "tags": [
+      "Alternative",
+      "Indie",
+      "Rock",
+      "Greece"
+    ],
+    "sources": [
+      "http://206.190.150.92:8295/;stream.mp3"
+    ]
   },
   {
     "id": "user:12733752-3d08-4cd1-a2ce-5ca19a4fb72f",
@@ -125,8 +74,51 @@
       "USA"
     ],
     "sources": [
-      "http://listen.djcmedia.com:80/metalrockradiohigh"
+      "http://listen.djcmedia.com/metalrockradiohigh",
+      "http://listen.djcmedia.com/metalrockradiolow"
+    ]
+  },
+  {
+    "id": "user:ccdc046a-ee71-4c13-874b-ce98ca54609a",
+    "title": "Hitsradio Alternative",
+    "websiteUrl": "https://hitsradio.com/",
+    "tags": [
+      "Alternative",
+      "Indie",
+      "Rock",
+      "USA"
     ],
-    "searchHash": "MetalRock.FM http://www.metalrock.fm/ tag:metal tag:rock tag:usa"
+    "sources": [
+      "http://19763.live.streamtheworld.com/977_ALTERN_SC",
+      "http://19763.live.streamtheworld.com:3690/977_ALTERN_SC",
+      "http://19353.live.streamtheworld.com/977_ALTERN_SC",
+      "http://19353.live.streamtheworld.com:3690/977_ALTERN_SC"
+    ]
+  },
+  {
+    "id": "user:94f51810-f713-4c47-a5ea-3c9d5d00d57b",
+    "title": "RealFM",
+    "websiteUrl": "http://www.real.gr/realfm/",
+    "tags": [
+      "News",
+      "Greece"
+    ],
+    "sources": [
+      "http://realfm.live24.gr/realfm"
+    ]
+  },
+  {
+    "id": "user:fbee42fd-631f-4bc5-af88-9622131a19de",
+    "title": "The Metal MIXX",
+    "websiteUrl": "http://www.themixx.fm/",
+    "tags": [
+      "Metal",
+      "Rock",
+      "USA"
+    ],
+    "sources": [
+      "http://listen.djcmedia.com/metalmixxlow",
+      "http://listen.djcmedia.com/metalmixxhigh"
+    ]
   }
 ]
