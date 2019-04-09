@@ -120,5 +120,17 @@
       "http://listen.djcmedia.com/metalmixxlow",
       "http://listen.djcmedia.com/metalmixxhigh"
     ]
+  },
+  {
+    "id": "user:94663861-5c04-4645-9104-9dc0dcc18ab8",
+    "title": "SPORT24 Radio 103,3",
+    "websiteUrl": "https://www.sport24radio.gr/",
+    "tags": [
+      "Sport",
+      "Greece"
+    ],
+    "sources": [
+      "https://stream.radiojar.com/r2aezx4wxxquv"
+    ]
   }
 ]
