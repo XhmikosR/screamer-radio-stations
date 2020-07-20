@@ -4,6 +4,5 @@ My [Screamer Radio](https://www.screamer-radio.com/) stations.
 
 ## How to install
 
-1. Download Screamer Radio. If you already have installed the latest Screamer Radio,
-   make sure it's **not** running.
-2. Place **"MyStations.json"** into the **"%LOCALAPPDATA%\Screamer\settings\"** folder or Run Screamer Radio, go to File → Import Stations and choose the **"MyStations.json"** file.
+1. Download and install the latest Screamer Radio version..
+2. Run Screamer Radio, go to "File → Import Stations" and choose the **"MyStations.json"** file. Alternatively, you can place the **"MyStations.json"** file into the **"%LOCALAPPDATA%\Screamer\settings\"** folder, but keep in mind that Screamer Radio should not be running when you copy the file.
