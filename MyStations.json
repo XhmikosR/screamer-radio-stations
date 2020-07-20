@@ -12,23 +12,9 @@
     ]
   },
   {
-    "id": "user:049ceab0-8073-43a7-b52e-b151603bc8aa",
-    "title": "The Independent FM",
-    "websiteUrl": "http://theindependent.fm/",
-    "tags": [
-      "Alternative",
-      "Indie",
-      "Rock",
-      "USA"
-    ],
-    "sources": [
-      "https://streaming.live365.com/a57210"
-    ]
-  },
-  {
     "id": "user:85746d2b-9dda-40bb-88b9-a34d822abbb2",
     "title": "Sport FM 94.6",
-    "websiteUrl": "http://www.sport-fm.gr/",
+    "websiteUrl": "https://www.sport-fm.gr/",
     "tags": [
       "Sport",
       "Greece"
@@ -47,7 +33,7 @@
       "Greece"
     ],
     "sources": [
-      "http://51.83.238.66:8032/"
+      "https://stream.vanillaradio.com:8032/live"
     ]
   },
   {
@@ -74,8 +60,8 @@
       "USA"
     ],
     "sources": [
-      "http://listen.djcmedia.com/metalrockradiohigh",
-      "http://listen.djcmedia.com/metalrockradiolow"
+      "http://listen.djcmedia.com/metalrockradiolow",
+      "http://listen.djcmedia.com/metalrockradiohigh"
     ]
   },
   {
@@ -110,7 +96,7 @@
   {
     "id": "user:fbee42fd-631f-4bc5-af88-9622131a19de",
     "title": "The Metal MIXX",
-    "websiteUrl": "http://www.themixx.fm/",
+    "websiteUrl": "http://themixx.fm/",
     "tags": [
       "Metal",
       "Rock",
@@ -119,18 +105,6 @@
     "sources": [
       "http://listen.djcmedia.com/metalmixxlow",
       "http://listen.djcmedia.com/metalmixxhigh"
-    ]
-  },
-  {
-    "id": "user:94663861-5c04-4645-9104-9dc0dcc18ab8",
-    "title": "SPORT24 Radio 103,3",
-    "websiteUrl": "https://www.sport24radio.gr/",
-    "tags": [
-      "Sport",
-      "Greece"
-    ],
-    "sources": [
-      "https://stream.radiojar.com/r2aezx4wxxquv"
     ]
   }
 ]
