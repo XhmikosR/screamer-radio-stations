@@ -1,5 +1,17 @@
 [
   {
+    "id": "user:4c86a0fd-e138-444c-be80-ad5fbf935ece",
+    "title": "105.5 Rock - Thessaloniki",
+    "websiteUrl": "http://1055rock.gr/",
+    "tags": [
+      "Greek",
+      "Rock"
+    ],
+    "sources": [
+      "http://radio.1055rock.gr:30000/1055"
+    ]
+  },
+  {
     "id": "user:331c9b61-27b0-4de1-b58d-670f8038a40a",
     "title": "ERASport",
     "websiteUrl": "https://webradio.ert.gr/eraspor/",
