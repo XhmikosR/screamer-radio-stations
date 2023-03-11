@@ -1,20 +1,36 @@
 [
   {
-    "id": "user:4c86a0fd-e138-444c-be80-ad5fbf935ece",
-    "title": "105.5 Rock - Thessaloniki",
-    "websiteUrl": "http://1055rock.gr/",
+    "id": "user:12733752-3d08-4cd1-a2ce-5ca19a4fb72f",
+    "title": "MetalRock.FM",
+    "websiteUrl": "http://www.metalrock.fm/",
     "tags": [
-      "Greek",
-      "Rock"
+      "Metal",
+      "Rock",
+      "USA"
     ],
     "sources": [
-      "http://radio.1055rock.gr:30000/1055"
+      "http://listen.djcmedia.com/metalrockradiolow",
+      "http://listen.djcmedia.com/metalrockradiohigh"
+    ]
+  },
+  {
+    "id": "user:169c3e53-3c00-4f0e-a439-0e032f71b1f0",
+    "title": "Red 96.3",
+    "websiteUrl": "https://www.redfm.gr/",
+    "tags": [
+      "Alternative",
+      "Indie",
+      "Rock",
+      "Greece"
+    ],
+    "sources": [
+      "https://stream.radiojar.com/tu0dt525e3quv"
     ]
   },
   {
     "id": "user:331c9b61-27b0-4de1-b58d-670f8038a40a",
     "title": "ERASport",
-    "websiteUrl": "https://webradio.ert.gr/eraspor/",
+    "websiteUrl": "https://webradio.ert.gr/",
     "tags": [
       "Sport",
       "Greece"
@@ -37,7 +53,7 @@
   },
   {
     "id": "user:0bad809b-0c18-4347-a27a-1ce403fd2f9e",
-    "title": "Vanilla Radio Smooth Flavor",
+    "title": "Vanilla Radio Smooth",
     "websiteUrl": "https://www.vanillaradio.com/",
     "tags": [
       "Smooth",
@@ -49,31 +65,42 @@
     ]
   },
   {
-    "id": "user:169c3e53-3c00-4f0e-a439-0e032f71b1f0",
-    "title": "Red 96.3",
-    "websiteUrl": "https://www.redfm.gr/",
+    "id": "user:94f51810-f713-4c47-a5ea-3c9d5d00d57b",
+    "title": "RealFM",
+    "websiteUrl": "https://www.real.gr/realfm/",
     "tags": [
-      "Alternative",
-      "Indie",
-      "Rock",
-      "Greece"
+      "User",
+      "Greece",
+      "News"
     ],
     "sources": [
-      "https://stream.radiojar.com/tu0dt525e3quv"
+      "https://realfm.live24.gr/realfm"
     ]
   },
   {
-    "id": "user:12733752-3d08-4cd1-a2ce-5ca19a4fb72f",
-    "title": "MetalRock.FM",
-    "websiteUrl": "http://www.metalrock.fm/",
+    "id": "user:4c86a0fd-e138-444c-be80-ad5fbf935ece",
+    "title": "105.5 Rock - Thessaloniki",
+    "websiteUrl": "http://1055rock.gr/",
     "tags": [
-      "Metal",
-      "Rock",
-      "USA"
+      "User",
+      "Greek",
+      "Rock"
     ],
     "sources": [
-      "http://listen.djcmedia.com/metalrockradiolow",
-      "http://listen.djcmedia.com/metalrockradiohigh"
+      "http://radio.1055rock.gr:30000/1055"
+    ]
+  },
+  {
+    "id": "user:fa4667cd-1e40-4700-a107-bc030703f349",
+    "title": "\u03A3\u03C4\u03BF \u039A\u03CC\u03BA\u03BA\u03B9\u03BD\u03BF",
+    "websiteUrl": "https://www.avgi.gr/sto-kokkino",
+    "tags": [
+      "User",
+      "News",
+      "Greek"
+    ],
+    "sources": [
+      "https://stream.radiojar.com/red-source"
     ]
   },
   {
@@ -88,35 +115,60 @@
     ],
     "sources": [
       "https://19763.live.streamtheworld.com/977_ALTERN_SC",
-      "http://19763.live.streamtheworld.com:3690/977_ALTERN_SC",
-      "https://19353.live.streamtheworld.com/977_ALTERN_SC",
-      "http://19353.live.streamtheworld.com:3690/977_ALTERN_SC"
+      "https://19353.live.streamtheworld.com/977_ALTERN_SC"
     ]
   },
   {
-    "id": "user:94f51810-f713-4c47-a5ea-3c9d5d00d57b",
-    "title": "RealFM",
-    "websiteUrl": "https://www.real.gr/realfm/",
+    "id": "user:03d78b66-eda1-4770-bffe-5f401d8a6264",
+    "title": "Munich\u0027s Hardest Hits",
+    "websiteUrl": "https://www.munichshardesthits.com/",
     "tags": [
-      "News",
-      "Greece"
+      "Rock",
+      "Germany"
     ],
     "sources": [
-      "https://realfm.live24.gr/realfm"
+      "https://munichhh.stream.vip/live/aac-64/homepage/play.pls",
+      "https://munichhh.stream.vip/live/mp3-128/homepage/play.pls",
+      "https://munichhh.stream.vip/live/mp3-128/homepage/play.m3u"
+    ]
+  },
+  {
+    "id": "user:b27a6b03-9b17-4323-a3df-a09b60bb627a",
+    "title": "Metal Express Radio",
+    "websiteUrl": "https://www.metalexpressradio.com/",
+    "tags": [
+      "User",
+      "Metal",
+      "Norway"
+    ],
+    "sources": [
+      "https://s39.myradiostream.com/:11590/?type=http"
     ]
   },
   {
     "id": "user:fbee42fd-631f-4bc5-af88-9622131a19de",
     "title": "The Metal MIXX",
-    "websiteUrl": "http://themixx.fm/",
+    "websiteUrl": "https://themixx.fm/",
     "tags": [
       "Metal",
       "Rock",
       "USA"
     ],
     "sources": [
-      "http://listen.djcmedia.com/metalmixxlow",
-      "http://listen.djcmedia.com/metalmixxhigh"
+      "https://opml.tunein.com/Tune.ashx?id=s157559\u0026render=json\u0026formats=mp3,aac,hls"
+    ]
+  },
+  {
+    "id": "user:3f6c042d-f898-470c-b253-443b1ec3b5bd",
+    "title": "ROCK FM 96.9",
+    "websiteUrl": "https://www.rockfm.gr/",
+    "tags": [
+      "User",
+      "Rock",
+      "Greece"
+    ],
+    "sources": [
+      "https://az10.yesstreaming.net:8060/radio.mp3"
     ]
   }
 ]
