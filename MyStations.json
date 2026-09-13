@@ -192,23 +192,76 @@
       "Metal"
     ],
     "sources": [
-      "http://listen.djcmedia.com/metalrockradiolow",
-      "http://listen.djcmedia.com/metalrockradiohigh"
+      "http://cast3.torontocast.com:1320/;"
     ],
     "migratedId": "12733752-3d08-4cd1-a2ce-5ca19a4fb72f"
   },
   {
-    "id": "01c5276d-fb70-4034-bf57-21ecc8f92dbd",
-    "title": "Planet 106.3 WJSE",
-    "websiteUrl": "https://planet1063.com/",
+    "id": "0537740c-9390-46fe-b3d4-0c4d4bc29d74",
+    "title": "1.FM - Alternative Rock X Hits Radio",
+    "websiteUrl": "https://www.1.fm/station/x",
+    "tags": [
+      "User",
+      "Alternative Rock"
+    ],
+    "sources": [
+      "https://strm112.1.fm/x_mobile_mp3"
+    ],
+    "migratedId": "0537740c-9390-46fe-b3d4-0c4d4bc29d74"
+  },
+  {
+    "id": "144aa68b-578b-45cb-af69-66ac2fad132a",
+    "title": "1.FM - Rock Classics Radio",
+    "websiteUrl": "https://www.1.fm/",
+    "tags": [
+      "Rock",
+      "User"
+    ],
+    "sources": [
+      "https://strm112.1.fm/rockclassics_mobile_mp3"
+    ],
+    "migratedId": "144aa68b-578b-45cb-af69-66ac2fad132a"
+  },
+  {
+    "id": "d8ded355-090a-4735-b437-9b3195aba3a2",
+    "title": "1.FM - High Voltage Radio",
+    "websiteUrl": "https://www.1.fm/",
+    "tags": [
+      "User",
+      "Metal"
+    ],
+    "sources": [
+      "https://strm112.1.fm/highvoltage_mobile_mp3"
+    ],
+    "migratedId": "d8ded355-090a-4735-b437-9b3195aba3a2"
+  },
+  {
+    "id": "4c8e640e-f89a-4dc7-8378-0323ca5d53be",
+    "title": "Parapolitka",
+    "websiteUrl": "https://www.parapolitika.gr/",
+    "tags": [
+      "News",
+      "User",
+      "Greek"
+    ],
+    "sources": [
+      "https://netradio.live24.gr/athinaradio"
+    ],
+    "migratedId": "4c8e640e-f89a-4dc7-8378-0323ca5d53be"
+  },
+  {
+    "id": "74dec6f4-d583-4a2f-a26e-1f55e7521a36",
+    "title": "KEXP",
+    "websiteUrl": "https://www.kexp.org/",
     "tags": [
       "USA",
       "Alternative",
       "User"
     ],
     "sources": [
-      "https://ice7.securenetsystems.net/WJSE"
+      "https://kexp.streamguys1.com/kexp160.aac",
+      "https://kexp.streamguys1.com/kexp64.aac"
     ],
-    "migratedId": "01c5276d-fb70-4034-bf57-21ecc8f92dbd"
+    "migratedId": "74dec6f4-d583-4a2f-a26e-1f55e7521a36"
   }
 ]
